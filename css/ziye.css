@@ -1,0 +1,250 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0;padding:0;border:0;}
+body{width:1024px;height:auto;background:#ffffff;margin:0 auto;font-size:12px;}
+header{width:1024px;background:#ffffff;position:relative;}
+header .denglu{
+	height:32px;
+	background-position:114px 32px;
+	color:#71d1f9;
+	float:left;
+}
+header #fangshi{
+	width:170px;
+	height:32px;
+	margin:0 auto;
+	background-position:170px 32px;
+	float:left;
+}
+header .tp{
+	height:32px;
+	background:#ffffff;
+	color:#71d1f9;
+	background-position:666px 32px;
+	float:right;
+}
+header #logo{
+	width:114px;
+	height:50px;
+	background-image:url(images/qmzy_07.gif);
+	background-repeat:no-repeat;
+	background-position:114px 56px;
+}
+header #shousu{
+	margin-top:5px;
+    height:50px;
+	background-repeat:no-repeat;
+	background-position:center center;
+	float:right;
+}
+.fath{
+	width:1024px;
+	height:60px;
+	line-height:54px;
+	background:#71d1f9;
+}
+	
+.div1{
+	margin-top:80px;
+	width:1024px;
+	height:60px;
+	line-height:54px;
+	background:#71d1f9;
+	font-size:24px;
+	text-align:center;
+	color:#ffffff;
+}
+.ying{
+	width:82px;
+	height:57px;
+	background-color:#a2daf5;
+	background: a2daf5(0,0,0,1);
+	left:1040px;
+	top:130px;
+	position:absolute;
+	font-size:25px;
+	color:#ffffff;
+	padding-left:10px;
+	padding-bottom:3px;
+}
+.gg{
+	width:1024px;
+	height:350px;
+	background-image:url(../images/ziyep_03.gif);
+	background-repeat:no-repeat;
+	background-color:#71d1f9;
+	background-position:center;
+}
+
+.div2{
+	width:1024px;
+	height:70px;
+	background-color:#ffffff;
+	background-image:url(../images/ziye_02%20.gif);
+	background-repeat:no-repeat;
+	font-size:12px;
+	line-height:70px;
+	text-align:200px;
+	padding-left:240px;
+	color:#ffffff;
+}
+article .geren{
+	width:1024px;
+	height:400px;
+	background-color:#ffffff;
+	background-image:url(../images/ziye_05.gif);
+	background-repeat:no-repeat;
+	margin-left:110px;
+	margin-top:20px;
+}
+article .pone{
+	padding-left:210px;
+	padding-right:450px;
+	padding-top:60px;
+	font-size:16px;
+	color:#00b4ff;
+}
+article .ptwo{
+	width:1024px;
+	height:50px;
+	background-color:#ffffff;
+	background-image:url(../images/ziye_08.gif);
+	background-repeat:no-repeat;
+}
+article .pzi{
+	padding-top:5px;
+	padding-left:170px;
+	color:#71d1f9;
+	font-size:24px;
+}
+article .ptu{
+	width:1024px;
+	height:100px;
+	background-color:#ffffff;
+	background-image:url(../images/ziye_09.gif);
+	background-repeat:no-repeat;
+}
+article .ptzi{
+	padding-left:345px;
+	padding-top:18px;
+	font-size:24px;
+}
+article .ptr1{
+	width:505px;
+	height:360px;
+	background-color:#ffffff;
+	background-image:url(../images/ziy_02.gif);
+	background-repeat:no-repeat;
+	background-position:left;
+	margin-top:2px;
+	float:left;
+}
+article .ptrh1{
+	padding-left:115px;
+	padding-right:200px;
+	font-size:9px;
+}
+article .ptr2{
+	width:514px;
+	height:360px;
+	background-color:#ffffff;
+	background-image:url(../images/ziy_04.gif);
+	background-repeat:no-repeat;
+	background-position:right;
+	margin-top:2px;
+	float:right;
+}
+article .ptrh2{
+	padding-left:200px;
+	padding-right:115px;
+	font-size:9px;
+}
+article .pfuo{
+	width:1024px;
+	height:40px;
+	background-color:#ffffff;
+	background-image:url(../images/ziye_26.gif);
+	background-repeat:no-repeat;
+	margin-top:370px;
+}
+article .pfuor{
+	padding-top:5px;
+	padding-left:170px;
+	color:#71d1f9;
+	font-size:24px;
+}
+.father{
+	background-color:#ffffff;
+}
+.father:after{
+	display:inline;
+	clear:both;
+	content:"";
+	visibility:hidden;
+	height:0;
+}
+section .pasz1{
+	width:262px;
+	height:300px;
+	background-color:#ffffff;
+	background-image:url(../images/ziyeo_03.gif);
+	background-repeat:no-repeat;
+	margin-top:20px;
+	margin-left:105px;
+	float:left;
+}
+section .pasz2{
+	padding-right:10px;
+	padding-left:10px;
+	padding-top:192px;
+	color:#00b4ff;
+	font-size:9px;
+}
+section .pqwe1{
+	width:275px;
+	height:300px;
+	background-color:#ffffff;
+	background-image:url(../images/ziyeo_04.gif);
+	background-repeat:no-repeat;
+	margin-top:20px;
+	float:left;
+}
+section .pqwe2{
+	padding-top:192px;
+	padding-left:15px;
+	padding-right:34pax;
+	color:#00b4ff;
+}
+section .piop1{
+	width:300px;
+	height:300px;
+	background-color:#ffffff;
+	background-image:url(../images/ziyeo_05.gif);
+	background-repeat:no-repeat;
+	margin-top:20px;
+	float:left;
+}
+section .piop2{
+	padding-top:192px;
+	padding-left:17px;
+	padding-right:34px;
+	color:#00b4ff;
+}
+footer .pkl1{
+	width:1024px;
+	height:140px;
+	background-color:#0068b7;
+	margin-top:320px;
+}
+footer .pkl2{
+	padding-left:200px;
+	padding-right:200px;
+	padding-top:40px;
+	color:#ffffff;
+}
+footer .pkl3{
+	padding-left:200px;
+	padding-right:200px;
+	padding-top:28px;
+	color:#ffffff;
+}
